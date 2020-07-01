@@ -1,2 +1,2 @@
 # College-data-management
-core java and MySql
+Java and MySql
